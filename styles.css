@@ -4,3 +4,9 @@
 #line2{
     color: red;
 }
+.important{
+    color: green;
+}
+.unimportant{
+    color: blue;
+}
