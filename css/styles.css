@@ -13,3 +13,16 @@
 .cat-climate{
     background-color: yellow;
 }
+.image {
+    float: left;
+    width: 60%;
+}
+.right{
+    float: right;
+    width: 90%;
+}
+.sidebar{
+    width: 30%;
+    float: right;
+    background-color: yellow;
+}
